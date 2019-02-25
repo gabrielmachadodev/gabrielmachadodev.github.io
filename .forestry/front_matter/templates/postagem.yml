@@ -10,3 +10,5 @@ fields:
   name: conteudo_da_pagina
   label: conteudo da pagina
 - type: include
+pages:
+- _posts/postagem teste1.md
