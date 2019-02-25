@@ -1,0 +1,12 @@
+---
+label: postagem
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: teste_post
+  label: teste post
+- type: textarea
+  name: conteudo_da_pagina
+  label: conteudo da pagina
+- type: include
